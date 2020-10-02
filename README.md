@@ -9,5 +9,5 @@
 - 📫 How to reach me: albinbenny@mca.ajce.in
 
 <p align="center">
-  <img width="500%" src="https://github.com/alansmathew/alansmathew/raw/master/projects.gif" alt="pic image here" />
+  <img width="50%" src="https://github.com/alansmathew/alansmathew/raw/master/projects.gif" alt="pic image here" />
 </p>
